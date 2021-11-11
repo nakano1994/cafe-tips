@@ -2,7 +2,7 @@
 title: "カフェでドヤマックブログ始動"
 summary: "伝説の始まり"
 date: 2021-11-06T06:16:20+09:00
-draft: true
+draft: false
 ---
 
 ## 伝説の始まり

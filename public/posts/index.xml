@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on カフェでドヤマック( ・´ｰ・｀)</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on カフェでドヤマック( ・´ｰ・｀)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 02:10:03 +0900</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>浅草にある作業できるおしゃれなカフェSplendorCoffee</title>
+      <link>http://example.org/posts/splendor-coffee/</link>
+      <pubDate>Mon, 08 Nov 2021 02:10:03 +0900</pubDate>
+      
+      <guid>http://example.org/posts/splendor-coffee/</guid>
+      <description>最高でした。</description>
+    </item>
+    
+    <item>
+      <title>カフェでドヤマックブログ始動</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Sat, 06 Nov 2021 06:16:20 +0900</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>伝説の始まり</description>
+    </item>
+    
+  </channel>
+</rss>
